@@ -14,3 +14,5 @@ following questions:
 ● What is the average number of rolls (turns) in a game?
 ● What is the average number of properties purchased in a game?
 ● As a percentage, in how many games is Indiana Avenue purchased?
+
+To run the project, just have the node with a version greater than 12 and run "npm run dev".
